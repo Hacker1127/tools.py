@@ -43,17 +43,12 @@ _____    ___     ___    _       ____
 işlemno =input("lütfen işlemno seçiniz : ")
 
 if işlemno == "1" :
-        os.system("clear")
-        os.system("figlet ∆ ")
         os.system("git clone https://github.com/rohamasadi/instagramCracker")
-        os.system(" cd instagramCracker")
         os.system(" python tool.py")
 
 elif işlemno == "2" :
-        os.system("clear")
-        os.system("figlet R - I R A ")
+        
         os.system("git clone git clone https://github.com/sandiwijayani1/SpamWa-1")
-        os.system("clear")
         os.system("python tool.py")
 
 elif işlemno == "3" :
@@ -65,23 +60,16 @@ elif işlemno == "3" :
 elif işlemno == "4" :
         os.system ("clear")
         os.system("git clone https://github.com/yedhrab/YInstaBot")
-        os.system("git clone https://github.com/officialputuid/toolsig")
-        os.system("python tool.py")
+        
 
 elif işlemno == "5" :
         os.system("clear")
         os.system("python tool.py")
 
 elif işlemno == "7" :
-        os.system("pkg install  git")
-        os.system("pip install git")
         os.system("git clone https://github.com/Moham3dRiahi/Th3inspector")
         os.system("python tool.py")
 elif işlemno =="6" :
-
-        os.system("clear")
-        os.system ("pkg install git")
-        os.system("pkg install curul")
         os.system ("git cline git clone https://github.com/htr-tech/nexphisher")
 elif işlemno == "8" :
         os.system ("clear")
