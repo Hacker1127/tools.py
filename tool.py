@@ -64,10 +64,8 @@ elif işlemno == "3" :
 
 elif işlemno == "4" :
         os.system ("clear")
+        os.system("git clone https://github.com/yedhrab/YInstaBot")
         os.system("git clone https://github.com/officialputuid/toolsig")
-        os.system("clear")
-        os.system("pkg install sl")
-        os.system("sl")
         os.system("python tool.py")
 
 elif işlemno == "5" :
